@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1058405423402:android:efa178384d81de1e",
         "android_client_info": {
-          "package_name": "com.wolborg.insuranceprmcalculator"
+          "package_name": "com.ishank.insuranceprmcalculator"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "1058405423402-4mc0kivvv6l2a58n0jvr20t6rntbvopt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.wolborg.insuranceprmcalculator",
+            "package_name": "com.ishank.insuranceprmcalculator",
             "certificate_hash": "9577a35cd90c633472b416ca20c055a7017b708f"
           }
         },

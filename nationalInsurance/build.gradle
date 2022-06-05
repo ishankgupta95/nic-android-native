@@ -20,7 +20,7 @@ android {
     compileSdkVersion 32
     buildToolsVersion '30.0.2'
     defaultConfig {
-        applicationId "com.wolborg.insuranceprmcalculator"
+        applicationId "com.ishank.insuranceprmcalculator"
         minSdkVersion 15
         targetSdkVersion 32
         versionCode 21
