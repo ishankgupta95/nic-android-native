@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">UII</string>
+    <string name="under_process">This Functionality is under process</string>
+    <string name="exit">Press Back Again to exit </string>
+
+
+    <!-- Calculation Fields -->
+    <string name="age">AGE*</string>
+    <string name="zones">ZONE*</string>
+    <string name="ccPromtp">CC*</string>
+    <string name="idv">IDV</string>
+    <string name="ncb">NCB</string>
+    <string name="nildep">NIL DEP</string>
+    <string name="cpa">CPA</string>
+    <string name="patoPass">PA TO PASS</string>
+    <string name="paAmt">PA AMOUNT</string>
+    <string name="discount">DISCOUNT</string>
+    <string name="towing">TOWING</string>
+    <string name="lpg_cng">LPG/CNG KIT</string>
+    <string name="elct_fit">ELECTRICAL FITTING</string>
+    <string name="driver">DRIVER</string>
+    <string name="built_lpg">BUILT IN LPG</string>
+    <string name="mPVTPub">PVT./PUBL*</string>
+    <string name="gvw">GVW*</string>
+    <string name="imt">IMT</string>
+    <string name="dr_cls">DR/CLS</string>
+    <string name="nfpp">NFPP</string>
+
+    <!-- Main Menu -->
+    <string name="motor">MOTOR</string>
+    <string name="fire">FIRE</string>
+    <string name="health">HEALTH</string>
+    <string name="misc">MISC</string>
+
+
+    <string name="twowheel">TWO WHEELER</string>
+    <string name="privateCar">PRIVATE CAR</string>
+    <string name="commercial_vehicle">Commercial Vehicle</string>
+
+
+    <!-- Button -->
+    <string name="reset">RESET</string>
+    <string name="calculate">CALCULATE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="button_share">SHARE</string>
+    <string name="button_cancelDailog">CANCEL</string>
+
+    <!-- Ad Unit -->
+    <string name="banner_ad_unit_id">ca-app-pub-8486518225438800/4006533824</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8486518225438800/8736116322</string>
+    <string name="title_activity_home2">Home2Activity</string>
+
+    <string name="twowheelerLearn1">AGE OF THE VEHICLE IS CALCULATED FROM THE DATE OF REGISTRATION.</string>
+    <string name="twowheelerLearn2">ZONE A :  VEHICLE REGISTERED WITH RTO\'s IN AHMEDABAD, BENGALURU, CHENNAI, HYDERABAD, KOLKATA, MUMBAI, NEW DELHI AND PUNE.
+    ZONE B : REST OF INDIA
+    </string>
+    <string name="twowheelerLearn3">CUBIC CAPACITY (CC) IS AVAILABLE IN THE RC BOOK.</string>
+    <string name="twowheelerLearn4">CURRENT MARKET PRICE OF THE VEHICLE.</string>
+    <string name="twowheelerLearn5">NO CLAIM BONUS AS PER PREVIOUS CLAIM FREE YEARS.</string>
+    <string name="twowheelerLearn6">IF SELECTED YES, NO DEPRICIATION WILL BE APPLICABLE ON PARTS.</string>
+    <string name="twowheelerLearn7">COMPULSARY PERSONAL ACCIDENT</string>
+    <string name="twowheelerLearn8">PERSONAL ACCIDENT COVER FOR PILLION RIDER</string>
+    <string name="twowheelerLearn9">FROM 10,000 TO 2,00,000 IN MULTIPLES OF 10,000, RS 7 PER 10000/-</string>
+    <string name="twowheelerLearn10">AS PER COMPANY POLICY.</string>
+
+    <string name="NIC">National Insurance Co. Ltd.</string>
+    <string name="NIA">New India Assurance Co. Ltd.</string>
+    <string name="OIC">Oriental Insurance Co. Ltd.</string>
+    <string name="UII">United India Insurance Co. Ltd.</string>
+
+    <string name="splash_msg">Welcome to General Insurance Calculator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

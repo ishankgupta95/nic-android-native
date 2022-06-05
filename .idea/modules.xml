@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/270devs-general-insurance-calculator-6f6f8f75a281.iml" filepath="$PROJECT_DIR$/.idea/modules/270devs-general-insurance-calculator-6f6f8f75a281.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.iml" filepath="$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.main.iml" filepath="$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/nationalInsurance/270devs-general-insurance-calculator-6f6f8f75a281.nationalInsurance.unitTest.iml" />
+    </modules>
+  </component>
+</project>
